@@ -1,3 +1,11 @@
 ul.list-group {
     min-height: 130px;
   }
+
+body {
+    background-color: #FFFDD0;
+  }
+
+header {
+    background-color: #708090;
+}
